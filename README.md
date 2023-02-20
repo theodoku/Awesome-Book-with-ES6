@@ -51,7 +51,7 @@
 
 > Link to deployed project.
 
-- [Live Demo Link](https://theodoku.github.io/1st-Capstone-Project/)
+- [Live Demo Link](https://theodoku.github.io/Awesome-Book-with-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
