@@ -19,7 +19,10 @@ class Book {
           <button class="remove-btn ${id}"> Remove </button>
           `;
         const booksList = document.querySelector('#book-list');
-        booksList.appendChild(newBook);
+      booksList.appendChild(newBook);
+      
+      // Remove Deleted Books from display.
+      this.removeBook();
     }
         // Delete Selected Book
     removeBook = () => {
