@@ -22,19 +22,23 @@
   display: flex;
   gap: 0.8rem;
 }
+
 .nav_bar a {
   text-decoration: none;
   color: #000;
   border-right: 2px solid black;
   padding-right: 0.8rem;
 }
+
 .nav_bar a.green {
   color: #008000;
 }
+
 .nav_bar a:nth-last-child(1) {
   border-right: none;
   padding-right: 0;
 }
+
 .nav_bar a:hover {
   text-decoration: underline;
   text-underline-position: under;
@@ -124,6 +128,7 @@ input {
   border: 2px #000 solid;
   padding: 5px;
 }
+
 input ::placeholder {
   color: #000;
 }
